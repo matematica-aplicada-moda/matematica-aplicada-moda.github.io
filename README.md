@@ -6,4 +6,4 @@ As Notas de Aula são o material principal para o acompanhamento da disciplina. 
 
 Arquivo das Notas de Aula:
 
-- Notas de Aula - Versão 1.0: [Baixar](https://github.com/matematica-aplicada-moda/matematica-aplicada-moda.github.io/settings/pages)
+- Notas de Aula - Versão 1.0: [Baixar](https://github.com/matematica-aplicada-moda/notas-de-aula-matematica-aplicada/raw/main/matematica_aplicada_design.pdf)
